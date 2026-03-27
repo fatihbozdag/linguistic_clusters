@@ -1,0 +1,111 @@
+======================================================================
+CONSTRUCTIONMINER - FULL CORPUS ANALYSIS REPORT
+======================================================================
+
+Generated: 2025-12-06 01:37:36.548940
+Mode: PRODUCTION
+Duration: 0:02:31.434416
+
+----------------------------------------------------------------------
+FILE PROCESSING
+----------------------------------------------------------------------
+Total ASC files: 175
+Successfully processed: 175
+Failed: 0
+
+----------------------------------------------------------------------
+CONSTRUCTION EXTRACTION
+----------------------------------------------------------------------
+Total constructions extracted: 2,543
+
+----------------------------------------------------------------------
+FILTERING
+----------------------------------------------------------------------
+Valid constructions: 1,731 (68.1%)
+Filtered out: 812 (31.9%)
+
+  Invalid TAM: 802
+  Extraposed it-passives: 10
+  Missing fields: 0
+
+Valid TAM Distribution:
+  modal-be           496 ( 28.7%)
+  past-be            346 ( 20.0%)
+  perf-be            128 (  7.4%)
+  pres-be            634 ( 36.6%)
+  prog-be            127 (  7.3%)
+
+----------------------------------------------------------------------
+PREPOSITION NORMALIZATION (Data Quality)
+----------------------------------------------------------------------
+Input: 1,731 valid constructions
+Output: 1,731 normalized constructions
+
+  Corrected (typos fixed): 1
+  Filtered (invalid preps): 0
+
+----------------------------------------------------------------------
+INSTANCE-LEVEL PREFILTERS (Layer 1 - Surface Formulaicity)
+----------------------------------------------------------------------
+Input: 1,731 normalized constructions
+Output: 114 formulaic instances (6.59%)
+
+Thresholds:
+  - ATP (Average Transition Probability) ≥ 0.10
+  - ΔP_backward (Delta P Backward) ≥ 0.10
+  - H_r (Boundary Entropy) ≤ 2.8
+
+Filtered out: 1,617 (93.41%)
+  - ATP < 0.10: 340 (19.6%)
+  - ΔP_backward < 0.10: 68 (3.9%)
+  - H_r > 2.8: 1,189 (68.7%)
+
+----------------------------------------------------------------------
+PATTERN ANALYSIS (Layer 2 - Schema-Level Metrics)
+----------------------------------------------------------------------
+Input: 114 formulaic instances
+Output: 63 unique patterns
+
+----------------------------------------------------------------------
+DUAL-LANE FORMULAICITY VALIDATION (Layer 3 - OR LOGIC, H_slot≥1.5)
+----------------------------------------------------------------------
+Mode: PRODUCTION
+Input: 63 unique patterns
+Output: 8 accepted schemas
+
+Thresholds (G²-based significance with permutation validation):
+  Layer 1 (NPMI - Constructional Association):
+    - NPMI ≥ 0.05
+    - G² ≥ 3.84 (p < 0.05)
+  Layer 2 (H_slot - Lexical Productivity):
+    - H_slot ≥ 1.5
+    - G² ≥ 1.0
+    - NPMI floor ≥ 0 (filters negative associations)
+
+Results:
+  Layer 1 PASS (NPMI): 2 (3.2%)
+  Layer 2 PASS (H_slot): 7 (11.1%)
+
+  ✅ ACCEPTED SCHEMAS (EITHER lane passes):
+    - NPMI-only (fixed collocations): 1
+    - H_slot-only (productive slots): 6
+    - Both (highly formulaic): 1
+    - Total accepted: 8 (12.7%)
+
+======================================================================
+SUMMARY - FOUR-LAYER FILTERING PIPELINE
+======================================================================
+Files processed: 175
+
+Pipeline Flow:
+  1. Total constructions extracted: 2,543
+  2. Valid constructions (basic filters): 1,731 (68.1%)
+  3. Normalized constructions (prep fix): 1,731 (corrections: 1, filtered: 0)
+  4. Formulaic instances (Layer 1): 114 (6.59%)
+  5. Unique patterns (Layer 2): 63
+  6. Accepted schemas (Layer 3): 8 (12.7%)
+
+Overall Acceptance Rate:
+  Formulaic instances / Normalized constructions: 6.59%
+  Accepted schemas / Total patterns: 12.7%
+======================================================================

@@ -1,0 +1,73 @@
+======================================================================
+VERB LEMMA VALIDATION REPORT
+======================================================================
+
+Total constructions processed: 1,731
+Valid (unchanged): 1,610 (93.0%)
+Corrected: 0 (0.0%)
+Tokenization errors fixed: 101
+Filtered out: 20 (1.2%)
+
+----------------------------------------------------------------------
+CORRECTIONS APPLIED:
+----------------------------------------------------------------------
+  accomplish -> accompl
+  accumulate -> accumul
+  alleviate -> allevi
+  appreciate -> appreci
+  appropriate -> appropri
+  associate -> associ
+  broadcast -> broadc
+  celebrate -> celebr
+  communicate -> communic
+  compensate -> compens
+  criminalize -> crim
+  cultivate -> cultiv
+  deaden -> dead
+  demonstrate -> demonstr
+  depersonalize -> depers
+  designate -> design
+  determine -> determ
+  devastate -> devast
+  disappoint -> disappo
+  discipline -> discipl
+  discourage -> discour
+  discriminate -> discrim
+  disregard -> disreg
+  eliminate -> elim
+  emphasize -> emph
+  encompass -> encomp
+  encourage -> encour
+  eradicate -> eradic
+  establish -> establ
+  formulate -> formul
+  guarantee -> guar
+  impregnate -> impregn
+  incarcerate -> incarcer
+  institute -> inst
+  manufacture -> manuf
+  misunderstand -> misunderst
+  overshadow -> oversh
+  privelage -> privel
+  rationalize -> rati
+  reinstate -> reinst
+  screen -> scre
+  subordinate -> subord
+  substitue -> subst
+  summarize -> summ
+  threaten -> threat
+  translate -> transl
+  underestimate -> underestim
+  undermine -> underm
+  understand -> underst
+  undertake -> undert
+  weaken -> weak
+  worsen -> wors
+
+----------------------------------------------------------------------
+FILTERED LEMMAS:
+----------------------------------------------------------------------
+  do
+  go
+
+======================================================================

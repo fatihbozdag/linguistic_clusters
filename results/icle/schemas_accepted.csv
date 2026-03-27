@@ -1,0 +1,9 @@
+schema,n,n_docs,npmi,h_slot,g_squared,atp,delta_p,lane
+"modal-be,pp_up_NP",20,1,0.1835,1.0219,55.28,0.3137,0.1423,NPMI
+"modal-be,pp_over_NP",16,1,0.1992,3.75,37.58,0.3502,0.3336,Both
+"modal-be,pp_above_NP",7,1,0.058,2.5216,6.94,0.3236,0.2809,Both
+"modal-be,pp_towards_NP",6,1,0.1147,2.2516,4.69,0.3754,0.4874,Both
+"past-be,pp_out_NP",5,1,0.5507,1.9219,2.78,0.1955,0.3805,H_slot
+"perf-be,pp_within_NP",5,1,0.5884,2.3219,2.78,0.4091,0.2006,H_slot
+"modal-be,pp_around_NP",4,1,0.0368,1.5,1.28,0.386,0.448,H_slot
+"modal-be,pp_outside_NP",4,1,0.0845,1.5,1.28,0.3348,0.2766,H_slot

@@ -1,0 +1,115 @@
+doc_id,surface,tam,comp,subjtype,head_lemma,pattern,subject_text,instance_atp,instance_dpb,instance_hr
+USARG_0036,"The procedure , abortion is being performed at a rate which has been continually on the rise for years",prog-be,pp_at_NP,DEF_NP,perform,"prog-be,pp_at_NP","The procedure , abortion",0.12717310534146603,0.3689772176442075,1.0
+USARG_0018,that are being referred to,prog-be,pp_to_NP,REL,refer,"prog-be,pp_to_NP",that,0.11387233874499615,0.16897721764420748,1.584962500721156
+USARG_0018,should be offered outside of the classroom,modal-be,pp_outside_NP,DEF_NP,offer,"modal-be,pp_outside_NP",,0.3128596759545578,0.13754241396025207,0.0
+USARG_0068,"Women 's Liberation has been met with adamant , and often obstinate oppostion",perf-be,pp_with_NP,PROPN,meet,"perf-be,pp_with_NP",Women 's Liberation,0.5108512326284284,0.6312813055420907,2.321928094887362
+USARG_0089,Cities were located near train tracks,past-be,pp_near_NP,PL_NP,locate,"past-be,pp_near_NP",Cities,0.2370210174378861,0.46219098400387787,0.0
+USARG_0116,"the movement for democracy , the stance made by he young hero of freedom would have been lost Without the satellite",modal-be,pp_without_NP,DEF_NP,lose,"modal-be,pp_without_NP","the movement for democracy , the stance made by he young hero of freedom",0.2798194428433179,0.107471781732567,2.0
+USARG_0116,China is placed down the block,pres-be,pp_down_NP,PROPN,place,"pres-be,pp_down_NP",China,0.10309035231478274,0.19846271033861917,0.0
+USARG_0004,Capital punishment has been carried on criminals,perf-be,pp_on_NP,DEF_NP,carry,"perf-be,pp_on_NP",Capital punishment,0.4675328285664271,0.46461463887542415,1.0
+USARG_0138,sex should be talked about,modal-be,pp_about_NP,DEF_NP,talk,"modal-be,pp_about_NP",sex,0.5005414500699238,0.887542413960252,0.0
+USARG_0148,The bowls have been associated with college football,perf-be,pp_with_NP,PL_NP,associ,"perf-be,pp_with_NP",The bowls,0.4277164301666456,0.29794797220875746,2.321928094887362
+USARG_0080,that have been turned to those outside the family,perf-be,pp_to_NP,REL,turn,"perf-be,pp_to_NP",that,0.3843374347328557,0.1312813055420908,2.321928094887362
+USARG_0141,being debated at the moment,prog-be,pp_at_NP,DEF_NP,debate,"prog-be,pp_at_NP",,0.1312379850063896,0.24170449037148017,1.0
+USARG_0141,his charge was dismissed due to the fact that Michigan has no law against assisted suicide,past-be,pp_due_NP,DEF_NP,dismiss,"past-be,pp_due_NP",his charge,0.2282887038097896,0.4520116335433834,0.0
+USARG_0064,an individual has been convicted of a crime,perf-be,pp_of_NP,INDEF_NP,convict,"perf-be,pp_of_NP",an individual,0.4258055705279718,0.29794797220875746,2.0
+USARG_0128,being exposed to clear and definitive signs of massed produced gender identity,prog-be,pp_to_NP,DEF_NP,expose,"prog-be,pp_to_NP",,0.11291012784779447,0.21897721764420747,1.584962500721156
+USARG_0056,"Richard Nixon , certainly a criminal at least in the sense of having violated public trust was deprived of public office",past-be,pp_of_NP,PROPN,deprive,"past-be,pp_of_NP","Richard Nixon , certainly a criminal at least in the sense of having violated public trust",0.14483418773287896,0.28534496687671673,1.584962500721156
+USARG_0144,the ca be chased after,modal-be,pp_after_NP,PRON,chase,"modal-be,pp_after_NP",the,0.44520581217510485,0.887542413960252,1.0
+USARG_0026,"Advertisers and salespeople have been accused of deceiving and manipulating the public through techniques such as exaggeration , failure to tell the whole truth about a product , misleading pricing , and packaging",perf-be,pp_of_NP,PL_NP,accuse,"perf-be,pp_of_NP",Advertisers and salespeople,0.4961560169722242,0.5646146388754241,2.0
+USARG_0008,more students were implemented into the program,past-be,pp_into_NP,PL_NP,implement,"past-be,pp_into_NP",more students,0.10881588923275787,0.21219098400387784,2.75
+USARG_0090,that could have been dreamed of,modal-be,pp_of_NP,REL,dream,"modal-be,pp_of_NP",that,0.4023472555822704,0.9646146388754241,2.321928094887362
+USARG_0043,being transferred during sex,prog-be,pp_during_NP,DEF_NP,transfer,"prog-be,pp_during_NP",,0.4882736760785264,0.9689772176442074,0.0
+USARG_0033,The Does ' attitude towards adoption has been changed throughout this case,perf-be,pp_throughout_NP,DEF_NP,change,"perf-be,pp_throughout_NP",The Does ' attitude towards adoption,0.39235105445106117,0.16461463887542416,0.0
+USARG_0033,"The idea of adoption has been wounded through cases such as "" Baby Jessica "" and "" Baby Richard """,perf-be,pp_through_NP,DEF_NP,wound,"perf-be,pp_through_NP",The idea of adoption,0.5925934199382158,0.9646146388754241,1.0
+USARG_0033,is being torn from them,prog-be,pp_from_NP,DEF_NP,tear,"prog-be,pp_from_NP",,0.27546234582862067,0.9689772176442074,1.584962500721156
+USARG_0002,this statement can be used against teaching of evolution,modal-be,pp_against_NP,DEF_NP,use,"modal-be,pp_against_NP",this statement,0.36509846881424773,0.2781674139602521,1.5
+USARG_0160,we are being led to believe that a woman can do anything a man can do without considering the consequences of that concept,prog-be,to_VP,PRON,lead,"prog-be,to_VP",we,0.1890541128603621,0.46897721764420747,2.721928094887362
+USARG_0086,Spain was located across the ocean,past-be,pp_across_NP,PROPN,locate,"past-be,pp_across_NP",Spain,0.10304633832263498,0.20201163354338342,0.0
+USARG_0169,baby boys are dressed Just like baby girls,pres-be,pp_like_NP,PL_NP,dress,"pres-be,pp_like_NP",baby boys,0.4657251737443774,0.920261754726127,0.0
+USARG_0055,this desire can be pushed at times,modal-be,pp_at_NP,DEF_NP,push,"modal-be,pp_at_NP",this desire,0.34154059134393056,0.2208757472935854,2.584962500721156
+USARG_0137,the football player is known all over the world,pres-be,pp_over_NP,DEF_NP,know,"pres-be,pp_over_NP",the football player,0.19390140074822576,0.37428688616279504,0.0
+USARG_0137,the money is being spent on things which are much more important,prog-be,pp_on_NP,DEF_NP,spend,"prog-be,pp_on_NP",the money,0.10867449641837668,0.3023105509775408,2.321928094887362
+USARG_0025,many children are bounced from home,pres-be,pp_from_NP,PL_NP,bounce,"pres-be,pp_from_NP",many children,0.46152945145839197,0.920261754726127,2.75
+USARG_0147,far to many people have been informed of these innovations,perf-be,pp_of_NP,PL_NP,inform,"perf-be,pp_of_NP",far to many people,0.3927313594379777,0.16461463887542416,2.0
+USARG_0147,Both sexes are being depersonalized into objects of most of sex,prog-be,pp_into_NP,PL_NP,depers,"prog-be,pp_into_NP",Both sexes,0.31411470423215077,0.9689772176442074,2.0
+USARG_0039,the argument against the use of corporal punishment in schools is rendered Without a clearly defined term,pres-be,pp_without_NP,DEF_NP,render,"pres-be,pp_without_NP",the argument against the use of corporal punishment in schools,0.4576419184574783,0.9127484246243335,1.0
+USARG_0017,it has been proven through several studies,perf-be,pp_through_NP,PRON,prove,"perf-be,pp_through_NP",it,0.5276506153474055,0.6789003531611384,1.0
+USARG_0175,Hundreds of lawsuits are filed against law enforcement officers,pres-be,pp_against_NP,PL_NP,file,"pres-be,pp_against_NP",Hundreds of lawsuits,0.4629280255537204,0.920261754726127,1.0
+USARG_0020,being implemented on the animals,prog-be,pp_on_NP,DEF_NP,implement,"prog-be,pp_on_NP",,0.11291012784779447,0.21897721764420747,2.321928094887362
+USARG_0020,they are loaded onto crates,pres-be,pp_onto_NP,PRON,load,"pres-be,pp_onto_NP",they,0.46152945145839197,0.920261754726127,0.0
+USARG_0132,the boys were trapped inside the car,past-be,pp_inside_NP,PL_NP,trap,"past-be,pp_inside_NP",the boys,0.15060373864300186,0.2955243173372112,0.0
+USARG_0100,AIDS was thought to be a predominantly homosexual disease,past-be,pp_at_NP,PROPN,think,"past-be,pp_at_NP",AIDS,0.1513193006164407,0.28534496687671673,2.0
+USARG_0170,this form of punishment is being applied to those,prog-be,pp_to_NP,DEF_NP,apply,"prog-be,pp_to_NP",this form of punishment,0.10867449641837668,0.3023105509775408,1.584962500721156
+USARG_0012,"Courts have been accused of being , < * > . Rushing through capital punishment cases and passing immediate and sometimes hasty death sentences sacrifices several basic constitutional rights",perf-be,pp_of_NP,PL_NP,accuse,"perf-be,pp_of_NP",Courts,0.4961560169722242,0.5646146388754241,2.0
+USARG_0012,the ethical argument supporting it must be examined Before dealing with the ethical argument against the use of capital punishment,modal-be,pp_before_NP,DEF_NP,examine,"modal-be,pp_before_NP",the ethical argument supporting it,0.29276401471464947,0.2208757472935854,0.0
+USARG_0059,they are released from prison,pres-be,pp_from_NP,PRON,release,"pres-be,pp_from_NP",they,0.16256447732298848,0.320261754726127,2.75
+USARG_0029,the talk of sexual relationships was spoken of,past-be,pp_of_NP,DEF_NP,speak,"past-be,pp_of_NP",the talk of sexual relationships,0.47840988655336697,0.9520116335433835,1.584962500721156
+USARG_0077,"Rapists , murderers , and other violent criminals are released from prison",pres-be,pp_from_NP,PL_NP,release,"pres-be,pp_from_NP","Rapists , murderers , and other violent criminals",0.16256447732298848,0.320261754726127,2.75
+USARG_0077,Not a single death has been attributed to smoking or consuming marijuana,perf-be,pp_to_NP,INDEF_NP,attribute,"perf-be,pp_to_NP",Not a single death,0.5925934199382158,0.9646146388754241,2.321928094887362
+USARG_0007,the whole reason for having nuclear power plants would be shot Without emphasizing that nuclear power is much cheaper per kilowatt hour,modal-be,pp_without_NP,DEF_NP,shoot,"modal-be,pp_without_NP",the whole reason for having nuclear power plants,0.43304835021404736,0.887542413960252,2.0
+USARG_0109,can be used like all inventions,modal-be,pp_like_NP,DEF_NP,use,"modal-be,pp_like_NP",,0.36509846881424773,0.2781674139602521,0.0
+USARG_0035,they are being prevented from doing their job ef fectively,prog-be,pp_from_NP,PRON,prevent,"prog-be,pp_from_NP",they,0.14732685482190677,0.3023105509775408,1.584962500721156
+USARG_0127,men would be relieved of this pressure,modal-be,pp_of_NP,PL_NP,relieve,"modal-be,pp_of_NP",men,0.43304835021404736,0.887542413960252,2.321928094887362
+USARG_0112,I 'd be lost that without,modal-be,pp_without_NP,PRON,lose,"modal-be,pp_without_NP",I,0.37509066319793494,0.6018281282459663,2.0
+USARG_0162,the student wuold have been exposed to swimming,perf-be,pp_to_NP,DEF_NP,expose,"perf-be,pp_to_NP",the student,0.43668013845853676,0.21461463887542415,2.321928094887362
+USARG_0091,many people have been rescued with increasing medical & technological advances starting at the middle of the century,perf-be,pp_with_NP,PL_NP,rescue,"perf-be,pp_with_NP",many people,0.5929737249251323,0.9646146388754241,2.321928094887362
+USARG_0042,which is geared toward mostly researchers,pres-be,pp_towards_NP,REL,gear,"pres-be,pp_towards_NP",which,0.4576419184574783,0.9127484246243335,0.0
+USARG_0042,must be looked at,modal-be,pp_at_NP,DEF_NP,look,"modal-be,pp_at_NP",,0.31860099895173943,0.3161138425316806,2.584962500721156
+USARG_0042,it can be looked at,modal-be,pp_at_NP,PRON,look,"modal-be,pp_at_NP",it,0.36737757558102047,0.3161138425316806,2.584962500721156
+USARG_0135,This example could be looked at,modal-be,pp_at_NP,DEF_NP,look,"modal-be,pp_at_NP",This example,0.316131043914716,0.3161138425316806,2.584962500721156
+USARG_0084,"Numerous hidden talents , strong wise personal voices and the great knowledge and learning that results from human experience and suffering has been burried under the ignorance of our society",perf-be,pp_under_NP,PL_NP,burrie,"perf-be,pp_under_NP","Numerous hidden talents , strong wise personal voices and the great knowledge and learning that results from human experience and suffering",0.5925934199382158,0.9646146388754241,0.0
+USARG_0079,Nearly one - third of American children are born out of wedlock,pres-be,pp_out_NP,DEF_NP,bear,"pres-be,pp_out_NP",Nearly one - third of American children,0.16256447732298848,0.320261754726127,1.0
+USARG_0079,being raised in an environment that promoted self - confidence and high self - esteem,prog-be,pp_in_NP,DEF_NP,raise,"prog-be,pp_in_NP",,0.15469797725803844,0.3023105509775408,2.0
+USARG_0129,young people being pressured into making decisions as to they want what to do the rest of their lives,prog-be,pp_into_NP,PL_NP,pressure,"prog-be,pp_into_NP",young people,0.15469797725803844,0.3023105509775408,2.0
+USARG_0129,He may have been weeded during the first season of play,modal-be,pp_during_NP,PRON,weed,"modal-be,pp_during_NP",He,0.443771165059985,0.9646146388754241,0.0
+USARG_0159,He was called before the jury,past-be,pp_before_NP,PRON,call,"past-be,pp_before_NP",He,0.14699589202739954,0.28534496687671673,0.0
+USARG_0159,it was passed after a few months of discussion about the law,past-be,pp_after_NP,PRON,pass,"past-be,pp_after_NP",it,0.3449266573357703,0.6662973478290978,0.0
+USARG_0159,being compelled to disclose the source of any news or information procured for publication in any legal or legislative proceedings in the State of Maryland,prog-be,to_VP,DEF_NP,compel,"prog-be,to_VP",,0.3252708939247051,0.635643884310874,2.721928094887362
+USARG_0159,being compelled to disclose the source of any news or information procured for publication in any legal or legislative proceedings in the State of Maryland,prog-be,to_VP,DEF_NP,compel,"prog-be,to_VP",,0.3252708939247051,0.635643884310874,2.721928094887362
+USARG_0159,"The actual bill , qualified privilege against disclosure for news media , ( section 19 - 11 - 100 ) was passed until 1993",past-be,pp_until_NP,DEF_NP,pass,"past-be,pp_until_NP","The actual bill , qualified privilege against disclosure for news media , ( section 19 - 11 - 100 )",0.3449266573357703,0.6662973478290978,0.0
+USARG_0159,the reporter being notified of the search,prog-be,pp_of_NP,DEF_NP,notify,"prog-be,pp_of_NP",the reporter,0.23815249333494912,0.46897721764420747,1.0
+USARG_0159,judges are barred from holding reporters in contempt for not divulging sources,pres-be,pp_from_NP,PL_NP,bar,"pres-be,pp_from_NP",judges,0.46152945145839197,0.920261754726127,2.75
+USARG_0130,the battle flag was flown above the state house,past-be,pp_above_NP,DEF_NP,fly,"past-be,pp_above_NP",the battle flag,0.48081395633504215,0.9520116335433835,0.0
+USARG_0022,it has been met with great opposition,perf-be,pp_with_NP,PRON,meet,"perf-be,pp_with_NP",it,0.5108512326284284,0.6312813055420907,2.321928094887362
+USARG_0010,equal rights should be shared among the surrogate mother and the other two parents,modal-be,pp_among_NP,PL_NP,share,"modal-be,pp_among_NP",equal rights,0.4176257270964614,0.5542090806269186,0.0
+USARG_0010,Surrogacy has been looked as,perf-be,pp_as_NP,DEF_NP,look,"perf-be,pp_as_NP",Surrogacy,0.3792323465863722,0.107471781732567,0.0
+USARG_0060,Women have been looked on,perf-be,pp_on_NP,PL_NP,look,"perf-be,pp_on_NP",Women,0.3796126515732888,0.107471781732567,1.0
+USARG_0088,has been applied to all areas of human existence,perf-be,pp_to_NP,DEF_NP,apply,"perf-be,pp_to_NP",,0.4258055705279718,0.29794797220875746,2.321928094887362
+USARG_0088,The philosopher 's stone was pulverized into utopic and nostolgic dust,past-be,pp_into_NP,DEF_NP,pulverize,"past-be,pp_into_NP",The philosopher 's stone,0.47840988655336697,0.9520116335433835,2.75
+USARG_0139,Children from ages four to twelve have been educated about sexuality,perf-be,pp_about_NP,PL_NP,educate,"perf-be,pp_about_NP",Children from ages four to twelve,0.42618587551488835,0.29794797220875746,0.0
+USARG_0139,Children are educated to experiment everything they see on television,pres-be,pp_below_NP,PL_NP,educate,"pres-be,pp_below_NP",Children,0.12795375263790398,0.2535950880594603,0.0
+USARG_0155,May be directed primarily against social or primarily against sexual forms of display,modal-be,pp_against_NP,DEF_NP,direct,"modal-be,pp_against_NP",,0.2880806847242883,0.48754241396025205,1.5
+USARG_0155,May be directed primarily against social or primarily against sexual forms of display,modal-be,pp_against_NP,DEF_NP,direct,"modal-be,pp_against_NP",,0.2880806847242883,0.48754241396025205,1.5
+USARG_0037,it can be lost at any moment,modal-be,pp_at_NP,PRON,lose,"modal-be,pp_at_NP",it,0.4386914935086642,0.6018281282459663,2.584962500721156
+USARG_0069,being promoted in formerly all - male professions,prog-be,pp_in_NP,DEF_NP,promote,"prog-be,pp_in_NP",,0.4882736760785264,0.9689772176442074,2.0
+USARG_0044,the parents may be rid of this guilt,modal-be,pp_of_NP,PL_NP,rid,"modal-be,pp_of_NP",the parents,0.3872454640045464,0.887542413960252,2.321928094887362
+USARG_0126,"The consequences for their decisions were nested Through a massing guilt , of subconscious resentment for what they call life , blaming themselves as individuals for their suppression < R >",past-be,pp_through_NP,PL_NP,nest,"past-be,pp_through_NP",The consequences for their decisions,0.4841794374634898,0.9621909840038778,1.0
+USARG_0034,Euthanasia is practiced throughout the U.S.,pres-be,pp_throughout_NP,DEF_NP,practice,"pres-be,pp_throughout_NP",Euthanasia,0.25993496526094684,0.5127484246243335,0.0
+USARG_0034,it will be shown Within this paper,modal-be,pp_within_NP,PRON,show,"modal-be,pp_within_NP",it,0.3071984499752063,0.30420908062691876,0.0
+USARG_0028,This argument is debated around times when the death penalty is actually put into effect,pres-be,pp_around_NP,DEF_NP,debate,"pres-be,pp_around_NP",This argument,0.23610180819342233,0.4582029700788789,1.0
+USARG_0028,Harris was executed After an enormous number of appeals,past-be,pp_after_NP,PROPN,execute,"past-be,pp_after_NP",Harris,0.3580968433731401,0.7020116335433835,0.0
+USARG_0006,it has been established over time,perf-be,pp_over_NP,PRON,establ,"perf-be,pp_over_NP",it,0.3820401907054136,0.118460792721578,1.0
+USARG_0006,is accepted all over the world,pres-be,pp_over_NP,DEF_NP,accept,"pres-be,pp_over_NP",,0.10309035231478274,0.19846271033861917,0.0
+USARG_0164,The City of Cleveland has been known as a dump city,perf-be,pp_as_NP,PROPN,know,"perf-be,pp_as_NP",The City of Cleveland,0.3820401907054136,0.118460792721578,0.0
+USARG_0076,"more than 7,700 beaches have been closed due to water pollution",perf-be,pp_due_NP,PL_NP,close,"perf-be,pp_due_NP","more than 7,700 beaches",0.5929737249251323,0.9646146388754241,1.0
+USARG_0013,being prescribed with Prozac,prog-be,pp_with_NP,DEF_NP,prescribe,"prog-be,pp_with_NP",,0.23815249333494912,0.46897721764420747,1.0
+USARG_0171,United States troops were sent into Grenada,past-be,pp_into_NP,PL_NP,send,"past-be,pp_into_NP",United States troops,0.4872633829250407,0.9621909840038778,2.75
+USARG_0133,girls are faced From the beginning of adolecense,pres-be,pp_from_NP,PL_NP,face,"pres-be,pp_from_NP",girls,0.14669507635751794,0.2838981183624906,2.75
+USARG_0021,college women 's basketball teams should be discriminated against,modal-be,pp_against_NP,PL_NP,discrim,"modal-be,pp_against_NP",college women 's basketball teams,0.3128596759545578,0.13754241396025207,1.5
+USARG_0021,Money is being wasted on men 's teams,prog-be,pp_on_NP,DEF_NP,waste,"prog-be,pp_on_NP",Money,0.15040175445683202,0.46897721764420747,2.321928094887362
+USARG_0143,the marriage was entered into,past-be,pp_into_NP,DEF_NP,enter,"past-be,pp_into_NP",the marriage,0.14483418773287896,0.28534496687671673,2.75
+USARG_0143,they should be viewed Instead of receiving all the grief that lots of stay home wives receive,modal-be,pp_instead_NP,PRON,view,"modal-be,pp_instead_NP",they,0.352387136382124,0.2875424139602521,0.0
+USARG_0038,it is focused around the works of one man,pres-be,pp_around_NP,PRON,focus,"pres-be,pp_around_NP",it,0.12406621963699034,0.2460817579576668,1.0
+USARG_0174,their rights were waived under an previous agreement with the school district,past-be,pp_under_NP,PL_NP,waive,"past-be,pp_under_NP",their rights,0.4841794374634898,0.9621909840038778,1.0
+USARG_0146,government employees can be paid without a budget ( good or bad ),modal-be,pp_without_NP,PL_NP,pay,"modal-be,pp_without_NP",government employees,0.34154059134393056,0.2208757472935854,2.0
+USARG_0024,many people are being discriminated against,prog-be,pp_against_NP,PL_NP,discrim,"prog-be,pp_against_NP",many people,0.1908860551167848,0.46897721764420747,1.0
+USARG_0024,He was discriminated against,past-be,pp_against_NP,PRON,discrim,"past-be,pp_against_NP",He,0.10304633832263498,0.20201163354338342,0.0
+USARG_0024,Discrimination is practiced against people with AIDS,pres-be,pp_against_NP,DEF_NP,practice,"pres-be,pp_against_NP",Discrimination,0.25993496526094684,0.5127484246243335,1.0
+USARG_0024,being discriminated against,prog-be,pp_against_NP,DEF_NP,discrim,"prog-be,pp_against_NP",,0.24181637784779447,0.46897721764420747,1.0
+USARG_0153,Violence on television can be seen throughout the many channels that cable has to offer,modal-be,pp_throughout_NP,DEF_NP,see,"modal-be,pp_throughout_NP",Violence on television,0.37516636510271284,0.3358182760292176,0.0
+USARG_0031,was expanded through President F.D. Roosevelt 's New Deal Programs,past-be,pp_through_NP,DEF_NP,expand,"past-be,pp_through_NP",,0.2282887038097896,0.4520116335433834,1.0
+USARG_0092,the area of travel has been improved due to the airplane,perf-be,pp_due_NP,DEF_NP,improve,"perf-be,pp_due_NP",the area of travel,0.5925934199382158,0.9646146388754241,1.0
+USARG_0111,The AIDS viruses was discovered during the 20th century,past-be,pp_during_NP,PL_NP,discover,"past-be,pp_during_NP",The AIDS viruses,0.31871306374457126,0.6186783002100501,1.0
+USARG_0161,you are thrown out of your car,pres-be,pp_out_NP,PRON,throw,"pres-be,pp_out_NP",you,0.2444167946431743,0.47581731028168256,1.0
+USARG_0161,being hit from behind,prog-be,pp_from_NP,DEF_NP,hit,"prog-be,pp_from_NP",,0.10232157524101901,0.19119943986642968,1.584962500721156
