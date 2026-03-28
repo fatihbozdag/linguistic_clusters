@@ -1,0 +1,145 @@
+{
+  "timestamp": "2025-12-07T00:21:28.980934",
+  "n_constructions": 56163,
+  "defaults": {
+    "atp": 0.1,
+    "dpb": 0.1,
+    "hr": 2.8,
+    "npmi": 0.05,
+    "h_slot": 1.5,
+    "g2_npmi": 3.84,
+    "g2_h_slot": 1.0
+  },
+  "parameters": {
+    "atp": {
+      "values": [
+        0.05,
+        0.08,
+        0.1,
+        0.12,
+        0.15
+      ],
+      "n_accepted": [
+        7,
+        7,
+        7,
+        6,
+        4
+      ],
+      "stable_schemas": [
+        "modal-be,pp_over_NP",
+        "modal-be,pp_towards_NP",
+        "past-be,pp_out_NP",
+        "modal-be,pp_around_NP",
+        "modal-be,pp_up_NP",
+        "modal-be,pp_above_NP",
+        "perf-be,pp_within_NP"
+      ]
+    },
+    "dpb": {
+      "values": [
+        0.05,
+        0.08,
+        0.1,
+        0.12,
+        0.15
+      ],
+      "n_accepted": [
+        8,
+        7,
+        7,
+        5,
+        6
+      ],
+      "stable_schemas": [
+        "modal-be,pp_above_NP",
+        "modal-be,pp_towards_NP",
+        "past-be,pp_out_NP",
+        "modal-be,pp_around_NP",
+        "modal-be,pp_up_NP",
+        "modal-be,pp_over_NP",
+        "perf-be,pp_within_NP"
+      ]
+    },
+    "hr": {
+      "values": [
+        2.0,
+        2.5,
+        2.8,
+        3.0,
+        3.5
+      ],
+      "n_accepted": [
+        2,
+        4,
+        7,
+        10,
+        9
+      ],
+      "stable_schemas": [
+        "modal-be,pp_towards_NP",
+        "modal-be,pp_around_NP",
+        "modal-be,pp_up_NP",
+        "modal-be,pp_above_NP",
+        "perf-be,pp_within_NP"
+      ]
+    },
+    "npmi": {
+      "values": [
+        0.02,
+        0.03,
+        0.05,
+        0.08,
+        0.1
+      ],
+      "n_accepted": [
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "stable_schemas": [
+        "modal-be,pp_over_NP",
+        "modal-be,pp_towards_NP",
+        "past-be,pp_out_NP",
+        "modal-be,pp_around_NP",
+        "modal-be,pp_up_NP",
+        "modal-be,pp_above_NP",
+        "perf-be,pp_within_NP"
+      ]
+    },
+    "h_slot": {
+      "values": [
+        1.0,
+        1.25,
+        1.5,
+        1.75,
+        2.0
+      ],
+      "n_accepted": [
+        7,
+        7,
+        7,
+        7,
+        5
+      ],
+      "stable_schemas": [
+        "modal-be,pp_over_NP",
+        "modal-be,pp_towards_NP",
+        "past-be,pp_out_NP",
+        "modal-be,pp_around_NP",
+        "modal-be,pp_up_NP",
+        "modal-be,pp_above_NP",
+        "perf-be,pp_within_NP"
+      ]
+    }
+  },
+  "globally_stable_schemas": [
+    "modal-be,pp_towards_NP",
+    "modal-be,pp_around_NP",
+    "modal-be,pp_up_NP",
+    "modal-be,pp_above_NP",
+    "perf-be,pp_within_NP"
+  ]
+}
