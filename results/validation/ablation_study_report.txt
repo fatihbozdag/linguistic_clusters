@@ -1,0 +1,72 @@
+======================================================================
+ABLATION STUDY REPORT
+======================================================================
+
+Generated: 2025-11-30T00:52:49.842163
+Constructions analyzed: 56,163
+
+----------------------------------------------------------------------
+CONFIGURATION RESULTS
+----------------------------------------------------------------------
+
+FULL: All layers active
+  Accepted schemas: 2
+  Unique patterns: 56
+  Top schemas: modal-be,pp_over_NP, modal-be,pp_up_NP
+
+NO_LAYER1: Skip instance prefilters
+  Accepted schemas: 116
+  Unique patterns: 239
+  Top schemas: modal-be,pp_about_NP, modal-be,pp_above_NP, modal-be,pp_according_NP, modal-be,pp_against_NP, modal-be,pp_along_NP ... (+111 more)
+
+NPMI_ONLY: Only NPMI lane
+  Accepted schemas: 2
+  Unique patterns: 56
+  Top schemas: modal-be,pp_over_NP, modal-be,pp_up_NP
+
+IG_ONLY: Only IG lane
+  Accepted schemas: 1
+  Unique patterns: 56
+  Top schemas: modal-be,pp_over_NP
+
+FREQ_ONLY: Frequency threshold only (≥3)
+  Accepted schemas: 178
+  Unique patterns: 239
+  Top schemas: modal-be,by_NP, modal-be,pp_about_NP, modal-be,pp_above_NP, modal-be,pp_after_NP, modal-be,pp_against_NP ... (+173 more)
+
+----------------------------------------------------------------------
+LAYER CONTRIBUTION ANALYSIS
+----------------------------------------------------------------------
+
+Layer 1 (Instance Prefilters: ATP, ΔP, H_r):
+  - Patterns filtered out: 115
+  - Purpose: Remove non-formulaic instances before aggregation
+  - Impact: Reduces false positives from random co-occurrences
+
+Layer 3 (Dual-Lane Acceptance):
+  - NPMI-only schemas: 1
+    (Fixed collocations with strong TAM-COMP association)
+  - IG-only schemas: 0
+    (Productive templates with lexical diversity)
+  - Both lanes: 1
+    (Highly formulaic: both associative AND productive)
+  - Rescued by OR logic: 1
+    (Would be rejected under AND logic)
+
+----------------------------------------------------------------------
+INTERPRETATION
+----------------------------------------------------------------------
+
+1. Without instance prefilters (Layer 1), 116 schemas
+   would be accepted vs. 2 with full pipeline.
+   Layer 1 prevents 114 potential false positives.
+
+2. Frequency-only baseline accepts 178 patterns.
+   The full pipeline reduces this to 2,
+   a 99% reduction.
+
+3. The OR logic in dual-lane acceptance rescues
+   1 schemas that would be rejected
+   under stricter AND logic.
+
+======================================================================

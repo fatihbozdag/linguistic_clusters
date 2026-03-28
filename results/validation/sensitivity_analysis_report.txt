@@ -1,0 +1,73 @@
+======================================================================
+SENSITIVITY ANALYSIS REPORT
+======================================================================
+
+Generated: 2025-12-07T00:21:28.980934
+Constructions analyzed: 56,163
+
+----------------------------------------------------------------------
+DEFAULT THRESHOLDS
+----------------------------------------------------------------------
+  atp: 0.1
+  dpb: 0.1
+  hr: 2.8
+  npmi: 0.05
+  h_slot: 1.5
+  g2_npmi: 3.84
+  g2_h_slot: 1.0
+
+----------------------------------------------------------------------
+PARAMETER: ATP
+----------------------------------------------------------------------
+Tested values: [0.05, 0.08, 0.1, 0.12, 0.15]
+Accepted schemas: [7, 7, 7, 6, 4]
+Stable schemas: 7
+  modal-be,pp_above_NP, modal-be,pp_around_NP, modal-be,pp_over_NP, modal-be,pp_towards_NP, modal-be,pp_up_NP, past-be,pp_out_NP, perf-be,pp_within_NP
+
+----------------------------------------------------------------------
+PARAMETER: DPB
+----------------------------------------------------------------------
+Tested values: [0.05, 0.08, 0.1, 0.12, 0.15]
+Accepted schemas: [8, 7, 7, 5, 6]
+Stable schemas: 7
+  modal-be,pp_above_NP, modal-be,pp_around_NP, modal-be,pp_over_NP, modal-be,pp_towards_NP, modal-be,pp_up_NP, past-be,pp_out_NP, perf-be,pp_within_NP
+
+----------------------------------------------------------------------
+PARAMETER: HR
+----------------------------------------------------------------------
+Tested values: [2.0, 2.5, 2.8, 3.0, 3.5]
+Accepted schemas: [2, 4, 7, 10, 9]
+Stable schemas: 5
+  modal-be,pp_above_NP, modal-be,pp_around_NP, modal-be,pp_towards_NP, modal-be,pp_up_NP, perf-be,pp_within_NP
+
+----------------------------------------------------------------------
+PARAMETER: NPMI
+----------------------------------------------------------------------
+Tested values: [0.02, 0.03, 0.05, 0.08, 0.1]
+Accepted schemas: [7, 7, 7, 7, 7]
+Stable schemas: 7
+  modal-be,pp_above_NP, modal-be,pp_around_NP, modal-be,pp_over_NP, modal-be,pp_towards_NP, modal-be,pp_up_NP, past-be,pp_out_NP, perf-be,pp_within_NP
+
+----------------------------------------------------------------------
+PARAMETER: H_SLOT
+----------------------------------------------------------------------
+Tested values: [1.0, 1.25, 1.5, 1.75, 2.0]
+Accepted schemas: [7, 7, 7, 7, 5]
+Stable schemas: 7
+  modal-be,pp_above_NP, modal-be,pp_around_NP, modal-be,pp_over_NP, modal-be,pp_towards_NP, modal-be,pp_up_NP, past-be,pp_out_NP, perf-be,pp_within_NP
+
+======================================================================
+GLOBALLY STABLE SCHEMAS
+======================================================================
+(Schemas that remain accepted across majority of threshold settings
+ for ALL parameters)
+
+  ✓ modal-be,pp_above_NP
+  ✓ modal-be,pp_around_NP
+  ✓ modal-be,pp_towards_NP
+  ✓ modal-be,pp_up_NP
+  ✓ perf-be,pp_within_NP
+
+Total: 5 globally stable schemas
+
+======================================================================

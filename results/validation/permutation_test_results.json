@@ -1,0 +1,42 @@
+{
+  "observed_schemas": 7,
+  "observed_schema_list": [
+    "modal-be,pp_above_NP",
+    "modal-be,pp_around_NP",
+    "modal-be,pp_over_NP",
+    "modal-be,pp_towards_NP",
+    "modal-be,pp_up_NP",
+    "past-be,pp_out_NP",
+    "perf-be,pp_within_NP"
+  ],
+  "mean_permuted": 6.983,
+  "std_permuted": 1.6866271075729808,
+  "min_permuted": 2,
+  "max_permuted": 13,
+  "median_permuted": 7.0,
+  "p_value_count": 0.617,
+  "z_score": 0.010079287783096864,
+  "mean_jaccard": 0.23524753334900392,
+  "std_jaccard": 0.10355917360435062,
+  "min_jaccard": 0.0,
+  "max_jaccard": 0.625,
+  "p_value_identity": 0.018,
+  "mean_overlap": 2.588,
+  "max_overlap": 5,
+  "count_test_significant": false,
+  "identity_test_valid": true,
+  "n_iterations": 1000,
+  "mode": "production",
+  "permuted_distribution_summary": {
+    "mean": 6.983,
+    "std": 1.6866271075729808,
+    "min": 2,
+    "max": 13
+  },
+  "jaccard_summary": {
+    "mean": 0.23524753334900392,
+    "std": 0.10355917360435062,
+    "min": 0.0,
+    "max": 0.625
+  }
+}
