@@ -1,0 +1,25 @@
+# Models (too large for git)
+models/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+.venv/
+venv/
+
+# OS
+.DS_Store
+
+# Data (licensed corpora)
+data/icle/
+data/locness/
+*.csv.gz
+
+# IDE
+.idea/
+.vscode/
