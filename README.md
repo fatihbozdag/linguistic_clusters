@@ -1,4 +1,4 @@
-# ConstructionMiner: Linguistic Clusters Framework
+# Linguistic Clusters Framework
 
 Pipeline for identifying stable distributional patterns in learner English passive constructions using multi-metric filtering and validation.
 
@@ -21,7 +21,7 @@ Applied to 9,529 ICLE texts (57,090 valid passive constructions):
 ## Project Structure
 
 ```
-CMCU/
+linguistic_clusters/
 ├── src/                    # Core pipeline modules (7 files)
 │   ├── lc_metrics.py       # LC Framework metrics (ATP, ΔP, Hr, NPMI, Hslot, G²)
 │   ├── passive_extractor.py
@@ -51,7 +51,7 @@ Requires Python 3.9+ and spaCy with `en_core_web_trf` model.
 
 ## Citation
 
-Bozdağ, F. U. (under review). Modeling distributional stability in learner English passives: The Linguistic Clusters Framework. *Corpus Linguistics and Linguistic Theory*.
+Bozdağ, F. U. (2026, in press). Modeling distributional stability in learner English passives: The Linguistic Clusters Framework. *Corpus Linguistics and Linguistic Theory*.
 
 ## License
 

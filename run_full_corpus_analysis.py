@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Full Corpus Analysis Pipeline - ConstructionMiner Phase 2
+Full Corpus Analysis Pipeline - Linguistic Clusters Framework
 
 Complete pipeline for passive construction analysis:
 1. Load all ASC-analyzer output files
@@ -157,7 +157,7 @@ class CorpusAnalysisPipeline:
     def run_pipeline(self):
         """Run complete analysis pipeline."""
         self.log("\n" + "="*70)
-        self.log("CONSTRUCTIONMINER - FULL CORPUS ANALYSIS PIPELINE")
+        self.log("LC FRAMEWORK - FULL CORPUS ANALYSIS PIPELINE")
         self.log("="*70)
         self.log(f"Mode: {self.mode.upper()}")
         self.log(f"ASC output directory: {self.asc_output_dir}")
@@ -495,7 +495,7 @@ class CorpusAnalysisPipeline:
         """Generate comprehensive text report."""
         with open(report_file, 'w', encoding='utf-8') as f:
             f.write("="*70 + "\n")
-            f.write("CONSTRUCTIONMINER - FULL CORPUS ANALYSIS REPORT\n")
+            f.write("LC FRAMEWORK - FULL CORPUS ANALYSIS REPORT\n")
             f.write("="*70 + "\n\n")
 
             f.write(f"Generated: {self.stats['end_time']}\n")
