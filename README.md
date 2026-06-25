@@ -51,7 +51,7 @@ Requires Python 3.9+ and spaCy with `en_core_web_trf` model.
 
 ## Citation
 
-Bozdağ, F. U. (2026, in press). Modeling distributional stability in learner English passives: The Linguistic Clusters Framework. *Corpus Linguistics and Linguistic Theory*.
+Bozdağ, F. U. (2026). Modeling distributional stability in learner English passives: The Linguistic Clusters Framework. *Corpus Linguistics and Linguistic Theory*. Advance online publication. https://doi.org/10.1515/cllt-2025-0141
 
 ## License
 
